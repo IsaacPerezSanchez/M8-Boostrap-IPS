@@ -1,0 +1,18 @@
+.container img{
+    width: 80px;
+}
+
+.card{
+    justify-content: center;
+    align-items: center;
+}
+
+.black{
+    background-color: black;
+    height: 250px;
+}
+
+.celda{
+    padding: 1.5rem;
+    border: 0.25rem solid yellow;
+}
